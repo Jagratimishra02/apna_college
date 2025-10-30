@@ -1,4 +1,4 @@
 # apna_college
 my repo
 <br>
-auther:-jagrati mishra
+auther:-jagrati mishra (me)
